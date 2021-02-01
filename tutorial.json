@@ -1,5 +1,5 @@
 {
-   "name":"ingress-controller Helm Chart Tutorial",
+   "name":"ingress-controller",
    "appLayout":"accordion",
    "appTheme":"g90",
    "footer":"footer.md",
@@ -28,7 +28,7 @@
          "duration":"15 min",
          "tutorial_name":"upgrading-and-rollback-igc.md",
          "title":"Upgrade and Rollback ingress-controller Helm Chart tutorial"
-      },
+      }
       
    ],
    "usefulLinks":[
