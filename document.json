@@ -1,9 +1,9 @@
 {
-  "name": "Ingress Controller ",
+  "name": "Ingress-Controller ",
   "description": "Lab for Ingress Controller ",
   "logo": "_images/dataset.png",
   "has_supporting_content": true,
-  "stack_id": "Ingress_Controller_-course_1611297998425",
+  "stack_id": "Ingress-Controller",
   "type": "Course",
   "Categories": [
     "Containerization"
@@ -24,7 +24,7 @@
       "Containerization"
     ],
     "Catalog Id": [
-      "Ingress_Controller_-course_1611297998425"
+      "Ingress_Controller"
     ],
     "Contact": [
       "edge@ibm.com"
