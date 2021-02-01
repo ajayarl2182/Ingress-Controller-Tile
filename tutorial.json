@@ -29,12 +29,6 @@
          "tutorial_name":"upgrading-and-rollback-igc.md",
          "title":"Upgrade and Rollback ingress-controller Helm Chart tutorial"
       },
-      {
-         "description":" How to uninstall Helm Chart",
-         "duration":"5 min",
-         "tutorial_name":"uninstall-helm-chart.md",
-         "title":"Uninstall ingress-controller Helm Chart"
-      }
       
    ],
    "usefulLinks":[
